@@ -1,4 +1,4 @@
-### Hi, I'm Rohit Mohammad
+### Hi, I'm BrainClops
 
 Data Science student focused on building practical AI/ML projects.
 
@@ -10,7 +10,7 @@ Data Science student focused on building practical AI/ML projects.
 
 **Currently learning:** Deep Learning and Generative AI, to go deeper into building LLM-based applications
 
-**Tools & Skills:**
+**Tools & Skills:** 
 
 ![Python](https://img.shields.io/badge/Python-brightgreen?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-brightgreen?logo=pandas&logoColor=white)

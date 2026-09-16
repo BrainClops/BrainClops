@@ -4,7 +4,7 @@ Data Science student focused on building practical AI/ML projects.
 
 **Currently working on:** an AI Career Predictor — an ML-based system with a Streamlit app that gives career recommendations and skill-gap analysis
 
-**Also building:** a RAG (Retrieval-Augmented Generation) system for querying PDF documents — my first step toward becoming an AI engineer
+**Also building:** a RAG (Retrieval-Augmented Generation) system for querying PDF documents my first step toward becoming an AI engineer
 
 **Past project:** real-time hand/finger tracking and gesture recognition using OpenCV and MediaPipe
 

@@ -46,9 +46,12 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,opencv,mysql,git,github,jupyter,vscode&perline=11" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv,mysql,git,github,vscode&perline=8" alt="skills"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/ETL%20Pipelines-1F6FEB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -106,9 +109,6 @@
 </h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrainClops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainClops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="languages"/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=BrainClops&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
 </div>
 

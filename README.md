@@ -28,16 +28,9 @@
 </div>
 
 <!-- ============ ABOUT ============ -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" height="32" align="absmiddle" alt="" />
-  About Me
-</h2>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" align="absmiddle" alt="" /> &nbsp;**BCA student** (3rd semester) specializing in **Data Science**<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" align="absmiddle" alt="" /> &nbsp;Goal: become a **Data Scientist**, working with data pipelines, analytics and machine learning<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" align="absmiddle" alt="" /> &nbsp;I build projects around **real business and public problems**, not just tutorials<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="22" align="absmiddle" alt="" /> &nbsp;Currently learning **Deep Learning & Generative AI**<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="22" align="absmiddle" alt="" /> &nbsp;Participant, **Grevix AfterCode 2026** hackathon
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrainClops/BrainClops/main/about.svg" width="100%" alt="About me"/>
+</div>
 
 <!-- ============ TECH STACK ============ -->
 <h2>

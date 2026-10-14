@@ -52,7 +52,7 @@
 
 <!-- ============ PROJECTS ============ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrainClops/BrainClops/main/projects.svg?v=1" width="100%" alt="Selected projects"/>
+  <img src="https://raw.githubusercontent.com/BrainClops/BrainClops/main/projects.svg?v=2" width="100%" alt="Selected projects"/>
   <br/>
   <a href="https://github.com/BrainClops/Grevix_invoice_automation"><img src="https://img.shields.io/badge/LedgerLens-View%20Repository-9E1B1E?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/BrainClops?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-2B0F0C?style=for-the-badge&logo=github&logoColor=white"/></a>

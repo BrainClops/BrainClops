@@ -51,49 +51,14 @@
 </div>
 
 <!-- ============ PROJECTS ============ -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" height="32" align="absmiddle" alt="" />
-  Featured Projects
-</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrainClops/BrainClops/main/projects.svg?v=1" width="100%" alt="Selected projects"/>
+  <br/>
+  <a href="https://github.com/BrainClops/Grevix_invoice_automation"><img src="https://img.shields.io/badge/LedgerLens-View%20Repository-9E1B1E?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/BrainClops?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-2B0F0C?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="24" align="absmiddle" alt="" />
-        Retail Data Pipeline
-      </h3>
-      <p>End-to-end <b>ETL pipeline</b> on Walmart retail data. Pulls data from <b>SQL and Parquet</b> sources, applies cleaning and transformations, and loads it into an analysis-ready format for business reporting.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square"/></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="24" align="absmiddle" alt="" />
-        LedgerLens: Invoice Automation
-      </h3>
-      <p>Built for the <b>Grevix AfterCode 2026</b> hackathon. Automates invoice and document processing for <b>enterprise finance teams</b>, cutting manual data entry and review effort.</p>
-      <p><a href="https://github.com/BrainClops/Grevix_invoice_automation"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Hackathon-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="24" align="absmiddle" alt="" />
-        Public Grievance Portal
-      </h3>
-      <p>A civic-tech platform where citizens can <b>submit public problems</b> (roads, water, sanitation, etc.), and complaints are routed <b>directly to the concerned government authority</b> for action and tracking.</p>
-      <p><img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Civic%20Tech-2EA44F?style=flat-square"/></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="24" align="absmiddle" alt="" />
-        E-Commerce Clothing Classifier
-      </h3>
-      <p>Machine learning model that <b>classifies clothing images</b> into categories, built for e-commerce and digital fashion shopping use cases such as auto-tagging and catalog organization.</p>
-      <p><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=flat-square"/></p>
-    </td>
-  </tr>
-</table>
+<br/>
 
 <!-- ============ GITHUB STATS ============ -->
 <h2>

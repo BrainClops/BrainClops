@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Rohit%20Mohammad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20BrainClops&descAlignY=60&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=BrainClops&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Data%20Science%20Student&descAlignY=60&descSize=18" width="100%" alt="header"/>
 </div>
 
 <div align="center">
@@ -113,10 +113,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrainClops&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" alt="activity"/>
-</div>
 
 <!-- ============ FOOTER ============ -->
 <div align="center">

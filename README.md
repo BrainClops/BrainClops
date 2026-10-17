@@ -29,7 +29,7 @@
 
 <!-- ============ ABOUT ============ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrainClops/BrainClops/main/about.svg?v=2" width="100%" alt="About me"/>
+  <img src="https://raw.githubusercontent.com/BrainClops/BrainClops/main/aboutme.svg?v=2" width="100%" alt="About me"/>
 </div>
 
 <!-- ============ TECH STACK ============ -->
